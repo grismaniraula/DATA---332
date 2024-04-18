@@ -6,7 +6,7 @@ Kobe Magee, Grisma Niraula, Feven Ferede
 ## Introduction
 We recorded speed of vehicles near 30th St and 24th Avenue in Rock Island IL on 2 different days. We will analyze the data with minimum, maximum and average speed of various vehicle type in a Shiny application 🛻. 
 
-![git](https://github.com/grismaniraula/DATA-332/assets/118494102/858f7c0f-d542-4af8-a0fc-d421ecf0787d)
+![Standard_radar_sign](https://github.com/grismaniraula/DATA-332/assets/118494102/98b33de8-f5bd-4550-bfa8-69ba4ff4a39a)
 
 
 ## Data Dictionary 📖

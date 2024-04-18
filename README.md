@@ -102,4 +102,4 @@ We did a research on analyzing the speed of the cars, what factors would affect 
 https://fevenf.shinyapps.io/CountingCarResearch/
 
 ## Conclusion 🫧
-We've effectively analyzed the speed data across various vehicle types, providing valuable insights into their average, maximum, and minimum speeds through Shiny app. Through interactive visualization and data exploration, users can grasp the speed distribution and trends with ease.
+We've effectively analyzed the speed data across various vehicle types, providing valuable insights into their average, maximum, and minimum speeds through Shiny app. We didn't seem to find any correlation between speed of the vehicles and factors like temperature, radar etc. Through interactive visualization and data exploration, users can grasp the speed distribution and trends with ease.

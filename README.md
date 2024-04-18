@@ -99,5 +99,7 @@ Columns that we used to analyze the data:
 
 We did a research on analyzing the speed of the cars, what factors would affect the speed of cars and systems to regulate vehicle speed. The research collectively explores the efficacy of radar and Dynamic Speed Monitoring Display (DSMD) signs in regulating vehicle speeds. Veneziano's research underscores the need for nuanced implementation of radar speed signs, emphasizing pre-deployment speed studies. Williamson and Fries found that radar speed signs induce speed reductions in most drivers, but some continue to speed in the absence of law enforcement. Sandberg, Schoenecker, Sebastian, and Soler's study demonstrates sustained reductions in vehicle speeds following DSMD sign installation, supported by comprehensive data collection and analysis. Overall, these findings advocate for the strategic deployment of speed signage to enhance road safety.
 
+https://fevenf.shinyapps.io/CountingCarResearch/
+
 ## Conclusion 🫧
 We've effectively analyzed the speed data across various vehicle types, providing valuable insights into their average, maximum, and minimum speeds through Shiny app. Through interactive visualization and data exploration, users can grasp the speed distribution and trends with ease.
